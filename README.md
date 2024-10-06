@@ -1,6 +1,6 @@
 # 🐍 Python Project Name
 
-![Header Image](https://path/to/your/header-image.jpg)
+![Header Image](imgs/compcache.png)
 
 ## 📖 Description
 
