@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# VSCode
+.vscode/
+
+# Environments
+.env
+.env.*
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre
+.pyre/
+
+# Celery beat schedule file
+celerybeat-schedule
+
+# Django stuff
+*.log
+local_settings.py
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# MacOS files
+.DS_Store
+
+# IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Profiling data
+.prof
+
+# Other
+*.sqlite3
+*.pkl
